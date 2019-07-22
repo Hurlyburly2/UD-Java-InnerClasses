@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c08c082-bd59-48f2-b11a-bb44c62bc7dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsimon/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Gearbox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Gearbox$Gear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Gearbox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClasses/com/dsimon/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsimon/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsimon/Gearbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsimon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsimon/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c08c082-bd59-48f2-b11a-bb44c62bc7dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dsimon/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+            <state relative-caret-position="302">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -170,7 +162,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3290653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -202,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsimon/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        <state relative-caret-position="302">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
     </entry>
